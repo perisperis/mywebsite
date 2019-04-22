@@ -1,0 +1,23 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -g dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perisperis/mywebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perisperis/mywebsite/issues"
+  },
+  "homepage": "https://github.com/perisperis/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
